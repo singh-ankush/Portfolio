@@ -1,7 +1,7 @@
 
   # Portfolio Website with Chat
 
-  This is a code bundle for Portfolio Website with Chat. The original project is available at https://www.figma.com/design/4yC4iTbCvCjNkBGBhrlyAL/Portfolio-Website-with-Chat.
+  This is a code bundle for Portfolio Website with Chat. The original project is available at https://singh-ankush.github.io/Portfolio.
 
   ## Running the code
 
